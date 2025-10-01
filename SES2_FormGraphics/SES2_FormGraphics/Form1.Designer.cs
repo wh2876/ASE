@@ -28,12 +28,45 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Text = "Form1";
+            button1 = new Button();
+            label1 = new Label();
+            SuspendLayout();
+            // 
+            // button1
+            // 
+            button1.Location = new Point(15, 15);
+            button1.Name = "button1";
+            button1.Size = new Size(77, 60);
+            button1.TabIndex = 0;
+            button1.Text = "CHANGE TEXT COLOUR";
+            button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click;
+            // 
+            // label1
+            // 
+            label1.AutoSize = true;
+            label1.Location = new Point(98, 38);
+            label1.Name = "label1";
+            label1.Size = new Size(138, 15);
+            label1.TabIndex = 1;
+            label1.Text = "THIS IS COLOURED TEXT";
+            // 
+            // Form1
+            // 
+            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleMode = AutoScaleMode.Font;
+            ClientSize = new Size(251, 92);
+            Controls.Add(label1);
+            Controls.Add(button1);
+            Name = "Form1";
+            Text = "Form1";
+            ResumeLayout(false);
+            PerformLayout();
         }
 
         #endregion
+
+        private Button button1;
+        private Label label1;
     }
 }
