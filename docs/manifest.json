@@ -137,6 +137,34 @@
       "Summary": null
     },
     {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BOOSECabinet_UnitTests.Test1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BOOSECabinet_UnitTests.Test1.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "BOOSECabinet_UnitTests.Test1",
+      "Summary": "<p sourcefile=\"api/BOOSECabinet_UnitTests.Test1.yml\" sourcestartlinenumber=\"1\">Contains unit tests for the BOOSECabinet compiler.\nNote that the tests cannot all be run together due to the usage of static variables in the free trial of BOOSE throwing errors after reaching a certain number of total variables used.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BOOSECabinet_UnitTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BOOSECabinet_UnitTests.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "BOOSECabinet_UnitTests",
+      "Summary": null
+    },
+    {
       "type": "Toc",
       "source_relative_path": "api/toc.yml",
       "output": {
