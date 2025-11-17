@@ -1,0 +1,469 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: BOOSECabinet
+  name: BOOSECabinet
+  href: api/BOOSECabinet.html
+  commentId: N:BOOSECabinet
+  fullName: BOOSECabinet
+  nameWithType: BOOSECabinet
+- uid: BOOSECabinet.BOOSE_Overwrites_and_Implements
+  name: BOOSECabinet.BOOSE_Overwrites_and_Implements
+  href: api/BOOSECabinet.BOOSE_Overwrites_and_Implements.html
+  commentId: N:BOOSECabinet.BOOSE_Overwrites_and_Implements
+  fullName: BOOSECabinet.BOOSE_Overwrites_and_Implements
+  nameWithType: BOOSECabinet.BOOSE_Overwrites_and_Implements
+- uid: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas
+  name: BCCanvas
+  href: api/BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.html
+  commentId: T:BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas
+  fullName: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas
+  nameWithType: BCCanvas
+- uid: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.#ctor
+  name: BCCanvas()
+  href: api/BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.html#BOOSECabinet_BOOSE_Overwrites_and_Implements_BCCanvas__ctor
+  commentId: M:BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.#ctor
+  name.vb: New()
+  fullName: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.BCCanvas()
+  fullName.vb: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.New()
+  nameWithType: BCCanvas.BCCanvas()
+  nameWithType.vb: BCCanvas.New()
+- uid: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.#ctor*
+  name: BCCanvas
+  href: api/BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.html#BOOSECabinet_BOOSE_Overwrites_and_Implements_BCCanvas__ctor_
+  commentId: Overload:BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.BCCanvas
+  fullName.vb: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.New
+  nameWithType: BCCanvas.BCCanvas
+  nameWithType.vb: BCCanvas.New
+- uid: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.Circle(System.Int32,System.Boolean)
+  name: Circle(int, bool)
+  href: api/BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.html#BOOSECabinet_BOOSE_Overwrites_and_Implements_BCCanvas_Circle_System_Int32_System_Boolean_
+  commentId: M:BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.Circle(System.Int32,System.Boolean)
+  name.vb: Circle(Integer, Boolean)
+  fullName: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.Circle(int, bool)
+  fullName.vb: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.Circle(Integer, Boolean)
+  nameWithType: BCCanvas.Circle(int, bool)
+  nameWithType.vb: BCCanvas.Circle(Integer, Boolean)
+- uid: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.Circle*
+  name: Circle
+  href: api/BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.html#BOOSECabinet_BOOSE_Overwrites_and_Implements_BCCanvas_Circle_
+  commentId: Overload:BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.Circle
+  isSpec: "True"
+  fullName: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.Circle
+  nameWithType: BCCanvas.Circle
+- uid: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.Clear
+  name: Clear()
+  href: api/BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.html#BOOSECabinet_BOOSE_Overwrites_and_Implements_BCCanvas_Clear
+  commentId: M:BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.Clear
+  fullName: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.Clear()
+  nameWithType: BCCanvas.Clear()
+- uid: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.Clear*
+  name: Clear
+  href: api/BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.html#BOOSECabinet_BOOSE_Overwrites_and_Implements_BCCanvas_Clear_
+  commentId: Overload:BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.Clear
+  isSpec: "True"
+  fullName: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.Clear
+  nameWithType: BCCanvas.Clear
+- uid: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.DrawTo(System.Int32,System.Int32)
+  name: DrawTo(int, int)
+  href: api/BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.html#BOOSECabinet_BOOSE_Overwrites_and_Implements_BCCanvas_DrawTo_System_Int32_System_Int32_
+  commentId: M:BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.DrawTo(System.Int32,System.Int32)
+  name.vb: DrawTo(Integer, Integer)
+  fullName: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.DrawTo(int, int)
+  fullName.vb: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.DrawTo(Integer, Integer)
+  nameWithType: BCCanvas.DrawTo(int, int)
+  nameWithType.vb: BCCanvas.DrawTo(Integer, Integer)
+- uid: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.DrawTo*
+  name: DrawTo
+  href: api/BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.html#BOOSECabinet_BOOSE_Overwrites_and_Implements_BCCanvas_DrawTo_
+  commentId: Overload:BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.DrawTo
+  isSpec: "True"
+  fullName: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.DrawTo
+  nameWithType: BCCanvas.DrawTo
+- uid: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.MoveTo(System.Int32,System.Int32)
+  name: MoveTo(int, int)
+  href: api/BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.html#BOOSECabinet_BOOSE_Overwrites_and_Implements_BCCanvas_MoveTo_System_Int32_System_Int32_
+  commentId: M:BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.MoveTo(System.Int32,System.Int32)
+  name.vb: MoveTo(Integer, Integer)
+  fullName: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.MoveTo(int, int)
+  fullName.vb: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.MoveTo(Integer, Integer)
+  nameWithType: BCCanvas.MoveTo(int, int)
+  nameWithType.vb: BCCanvas.MoveTo(Integer, Integer)
+- uid: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.MoveTo*
+  name: MoveTo
+  href: api/BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.html#BOOSECabinet_BOOSE_Overwrites_and_Implements_BCCanvas_MoveTo_
+  commentId: Overload:BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.MoveTo
+  isSpec: "True"
+  fullName: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.MoveTo
+  nameWithType: BCCanvas.MoveTo
+- uid: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.PenColour
+  name: PenColour
+  href: api/BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.html#BOOSECabinet_BOOSE_Overwrites_and_Implements_BCCanvas_PenColour
+  commentId: P:BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.PenColour
+  fullName: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.PenColour
+  nameWithType: BCCanvas.PenColour
+- uid: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.PenColour*
+  name: PenColour
+  href: api/BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.html#BOOSECabinet_BOOSE_Overwrites_and_Implements_BCCanvas_PenColour_
+  commentId: Overload:BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.PenColour
+  isSpec: "True"
+  fullName: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.PenColour
+  nameWithType: BCCanvas.PenColour
+- uid: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.Rect(System.Int32,System.Int32,System.Boolean)
+  name: Rect(int, int, bool)
+  href: api/BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.html#BOOSECabinet_BOOSE_Overwrites_and_Implements_BCCanvas_Rect_System_Int32_System_Int32_System_Boolean_
+  commentId: M:BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.Rect(System.Int32,System.Int32,System.Boolean)
+  name.vb: Rect(Integer, Integer, Boolean)
+  fullName: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.Rect(int, int, bool)
+  fullName.vb: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.Rect(Integer, Integer, Boolean)
+  nameWithType: BCCanvas.Rect(int, int, bool)
+  nameWithType.vb: BCCanvas.Rect(Integer, Integer, Boolean)
+- uid: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.Rect*
+  name: Rect
+  href: api/BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.html#BOOSECabinet_BOOSE_Overwrites_and_Implements_BCCanvas_Rect_
+  commentId: Overload:BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.Rect
+  isSpec: "True"
+  fullName: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.Rect
+  nameWithType: BCCanvas.Rect
+- uid: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.Reset
+  name: Reset()
+  href: api/BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.html#BOOSECabinet_BOOSE_Overwrites_and_Implements_BCCanvas_Reset
+  commentId: M:BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.Reset
+  fullName: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.Reset()
+  nameWithType: BCCanvas.Reset()
+- uid: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.Reset*
+  name: Reset
+  href: api/BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.html#BOOSECabinet_BOOSE_Overwrites_and_Implements_BCCanvas_Reset_
+  commentId: Overload:BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.Reset
+  isSpec: "True"
+  fullName: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.Reset
+  nameWithType: BCCanvas.Reset
+- uid: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.Set(System.Int32,System.Int32)
+  name: Set(int, int)
+  href: api/BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.html#BOOSECabinet_BOOSE_Overwrites_and_Implements_BCCanvas_Set_System_Int32_System_Int32_
+  commentId: M:BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.Set(System.Int32,System.Int32)
+  name.vb: Set(Integer, Integer)
+  fullName: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.Set(int, int)
+  fullName.vb: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.Set(Integer, Integer)
+  nameWithType: BCCanvas.Set(int, int)
+  nameWithType.vb: BCCanvas.Set(Integer, Integer)
+- uid: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.Set*
+  name: Set
+  href: api/BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.html#BOOSECabinet_BOOSE_Overwrites_and_Implements_BCCanvas_Set_
+  commentId: Overload:BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.Set
+  isSpec: "True"
+  fullName: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.Set
+  nameWithType: BCCanvas.Set
+- uid: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.SetColour(System.Int32,System.Int32,System.Int32)
+  name: SetColour(int, int, int)
+  href: api/BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.html#BOOSECabinet_BOOSE_Overwrites_and_Implements_BCCanvas_SetColour_System_Int32_System_Int32_System_Int32_
+  commentId: M:BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.SetColour(System.Int32,System.Int32,System.Int32)
+  name.vb: SetColour(Integer, Integer, Integer)
+  fullName: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.SetColour(int, int, int)
+  fullName.vb: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.SetColour(Integer, Integer, Integer)
+  nameWithType: BCCanvas.SetColour(int, int, int)
+  nameWithType.vb: BCCanvas.SetColour(Integer, Integer, Integer)
+- uid: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.SetColour*
+  name: SetColour
+  href: api/BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.html#BOOSECabinet_BOOSE_Overwrites_and_Implements_BCCanvas_SetColour_
+  commentId: Overload:BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.SetColour
+  isSpec: "True"
+  fullName: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.SetColour
+  nameWithType: BCCanvas.SetColour
+- uid: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.Tri(System.Int32,System.Int32)
+  name: Tri(int, int)
+  href: api/BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.html#BOOSECabinet_BOOSE_Overwrites_and_Implements_BCCanvas_Tri_System_Int32_System_Int32_
+  commentId: M:BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.Tri(System.Int32,System.Int32)
+  name.vb: Tri(Integer, Integer)
+  fullName: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.Tri(int, int)
+  fullName.vb: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.Tri(Integer, Integer)
+  nameWithType: BCCanvas.Tri(int, int)
+  nameWithType.vb: BCCanvas.Tri(Integer, Integer)
+- uid: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.Tri*
+  name: Tri
+  href: api/BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.html#BOOSECabinet_BOOSE_Overwrites_and_Implements_BCCanvas_Tri_
+  commentId: Overload:BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.Tri
+  isSpec: "True"
+  fullName: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.Tri
+  nameWithType: BCCanvas.Tri
+- uid: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.WriteText(System.String)
+  name: WriteText(string)
+  href: api/BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.html#BOOSECabinet_BOOSE_Overwrites_and_Implements_BCCanvas_WriteText_System_String_
+  commentId: M:BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.WriteText(System.String)
+  name.vb: WriteText(String)
+  fullName: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.WriteText(string)
+  fullName.vb: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.WriteText(String)
+  nameWithType: BCCanvas.WriteText(string)
+  nameWithType.vb: BCCanvas.WriteText(String)
+- uid: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.WriteText*
+  name: WriteText
+  href: api/BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.html#BOOSECabinet_BOOSE_Overwrites_and_Implements_BCCanvas_WriteText_
+  commentId: Overload:BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.WriteText
+  isSpec: "True"
+  fullName: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.WriteText
+  nameWithType: BCCanvas.WriteText
+- uid: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.Xpos
+  name: Xpos
+  href: api/BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.html#BOOSECabinet_BOOSE_Overwrites_and_Implements_BCCanvas_Xpos
+  commentId: P:BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.Xpos
+  fullName: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.Xpos
+  nameWithType: BCCanvas.Xpos
+- uid: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.Xpos*
+  name: Xpos
+  href: api/BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.html#BOOSECabinet_BOOSE_Overwrites_and_Implements_BCCanvas_Xpos_
+  commentId: Overload:BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.Xpos
+  isSpec: "True"
+  fullName: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.Xpos
+  nameWithType: BCCanvas.Xpos
+- uid: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.Ypos
+  name: Ypos
+  href: api/BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.html#BOOSECabinet_BOOSE_Overwrites_and_Implements_BCCanvas_Ypos
+  commentId: P:BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.Ypos
+  fullName: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.Ypos
+  nameWithType: BCCanvas.Ypos
+- uid: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.Ypos*
+  name: Ypos
+  href: api/BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.html#BOOSECabinet_BOOSE_Overwrites_and_Implements_BCCanvas_Ypos_
+  commentId: Overload:BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.Ypos
+  isSpec: "True"
+  fullName: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.Ypos
+  nameWithType: BCCanvas.Ypos
+- uid: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.getBitmap
+  name: getBitmap()
+  href: api/BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.html#BOOSECabinet_BOOSE_Overwrites_and_Implements_BCCanvas_getBitmap
+  commentId: M:BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.getBitmap
+  fullName: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.getBitmap()
+  nameWithType: BCCanvas.getBitmap()
+- uid: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.getBitmap*
+  name: getBitmap
+  href: api/BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.html#BOOSECabinet_BOOSE_Overwrites_and_Implements_BCCanvas_getBitmap_
+  commentId: Overload:BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.getBitmap
+  isSpec: "True"
+  fullName: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.getBitmap
+  nameWithType: BCCanvas.getBitmap
+- uid: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCircle
+  name: BCCircle
+  href: api/BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCircle.html
+  commentId: T:BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCircle
+  fullName: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCircle
+  nameWithType: BCCircle
+- uid: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCircle.#ctor
+  name: BCCircle()
+  href: api/BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCircle.html#BOOSECabinet_BOOSE_Overwrites_and_Implements_BCCircle__ctor
+  commentId: M:BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCircle.#ctor
+  name.vb: New()
+  fullName: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCircle.BCCircle()
+  fullName.vb: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCircle.New()
+  nameWithType: BCCircle.BCCircle()
+  nameWithType.vb: BCCircle.New()
+- uid: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCircle.#ctor(BOOSE.Canvas,System.Int32)
+  name: BCCircle(Canvas, int)
+  href: api/BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCircle.html#BOOSECabinet_BOOSE_Overwrites_and_Implements_BCCircle__ctor_BOOSE_Canvas_System_Int32_
+  commentId: M:BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCircle.#ctor(BOOSE.Canvas,System.Int32)
+  name.vb: New(Canvas, Integer)
+  fullName: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCircle.BCCircle(BOOSE.Canvas, int)
+  fullName.vb: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCircle.New(BOOSE.Canvas, Integer)
+  nameWithType: BCCircle.BCCircle(Canvas, int)
+  nameWithType.vb: BCCircle.New(Canvas, Integer)
+- uid: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCircle.#ctor*
+  name: BCCircle
+  href: api/BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCircle.html#BOOSECabinet_BOOSE_Overwrites_and_Implements_BCCircle__ctor_
+  commentId: Overload:BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCircle.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCircle.BCCircle
+  fullName.vb: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCircle.New
+  nameWithType: BCCircle.BCCircle
+  nameWithType.vb: BCCircle.New
+- uid: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCircle.Execute
+  name: Execute()
+  href: api/BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCircle.html#BOOSECabinet_BOOSE_Overwrites_and_Implements_BCCircle_Execute
+  commentId: M:BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCircle.Execute
+  fullName: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCircle.Execute()
+  nameWithType: BCCircle.Execute()
+- uid: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCircle.Execute*
+  name: Execute
+  href: api/BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCircle.html#BOOSECabinet_BOOSE_Overwrites_and_Implements_BCCircle_Execute_
+  commentId: Overload:BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCircle.Execute
+  isSpec: "True"
+  fullName: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCircle.Execute
+  nameWithType: BCCircle.Execute
+- uid: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCommandFactory
+  name: BCCommandFactory
+  href: api/BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCommandFactory.html
+  commentId: T:BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCommandFactory
+  fullName: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCommandFactory
+  nameWithType: BCCommandFactory
+- uid: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCommandFactory.MakeCommand(System.String)
+  name: MakeCommand(string)
+  href: api/BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCommandFactory.html#BOOSECabinet_BOOSE_Overwrites_and_Implements_BCCommandFactory_MakeCommand_System_String_
+  commentId: M:BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCommandFactory.MakeCommand(System.String)
+  name.vb: MakeCommand(String)
+  fullName: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCommandFactory.MakeCommand(string)
+  fullName.vb: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCommandFactory.MakeCommand(String)
+  nameWithType: BCCommandFactory.MakeCommand(string)
+  nameWithType.vb: BCCommandFactory.MakeCommand(String)
+- uid: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCommandFactory.MakeCommand*
+  name: MakeCommand
+  href: api/BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCommandFactory.html#BOOSECabinet_BOOSE_Overwrites_and_Implements_BCCommandFactory_MakeCommand_
+  commentId: Overload:BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCommandFactory.MakeCommand
+  isSpec: "True"
+  fullName: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCommandFactory.MakeCommand
+  nameWithType: BCCommandFactory.MakeCommand
+- uid: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCMoveTo
+  name: BCMoveTo
+  href: api/BOOSECabinet.BOOSE_Overwrites_and_Implements.BCMoveTo.html
+  commentId: T:BOOSECabinet.BOOSE_Overwrites_and_Implements.BCMoveTo
+  fullName: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCMoveTo
+  nameWithType: BCMoveTo
+- uid: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCMoveTo.Execute
+  name: Execute()
+  href: api/BOOSECabinet.BOOSE_Overwrites_and_Implements.BCMoveTo.html#BOOSECabinet_BOOSE_Overwrites_and_Implements_BCMoveTo_Execute
+  commentId: M:BOOSECabinet.BOOSE_Overwrites_and_Implements.BCMoveTo.Execute
+  fullName: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCMoveTo.Execute()
+  nameWithType: BCMoveTo.Execute()
+- uid: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCMoveTo.Execute*
+  name: Execute
+  href: api/BOOSECabinet.BOOSE_Overwrites_and_Implements.BCMoveTo.html#BOOSECabinet_BOOSE_Overwrites_and_Implements_BCMoveTo_Execute_
+  commentId: Overload:BOOSECabinet.BOOSE_Overwrites_and_Implements.BCMoveTo.Execute
+  isSpec: "True"
+  fullName: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCMoveTo.Execute
+  nameWithType: BCMoveTo.Execute
+- uid: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCRect
+  name: BCRect
+  href: api/BOOSECabinet.BOOSE_Overwrites_and_Implements.BCRect.html
+  commentId: T:BOOSECabinet.BOOSE_Overwrites_and_Implements.BCRect
+  fullName: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCRect
+  nameWithType: BCRect
+- uid: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCRect.#ctor
+  name: BCRect()
+  href: api/BOOSECabinet.BOOSE_Overwrites_and_Implements.BCRect.html#BOOSECabinet_BOOSE_Overwrites_and_Implements_BCRect__ctor
+  commentId: M:BOOSECabinet.BOOSE_Overwrites_and_Implements.BCRect.#ctor
+  name.vb: New()
+  fullName: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCRect.BCRect()
+  fullName.vb: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCRect.New()
+  nameWithType: BCRect.BCRect()
+  nameWithType.vb: BCRect.New()
+- uid: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCRect.#ctor(BOOSE.Canvas,System.Int32,System.Int32)
+  name: BCRect(Canvas, int, int)
+  href: api/BOOSECabinet.BOOSE_Overwrites_and_Implements.BCRect.html#BOOSECabinet_BOOSE_Overwrites_and_Implements_BCRect__ctor_BOOSE_Canvas_System_Int32_System_Int32_
+  commentId: M:BOOSECabinet.BOOSE_Overwrites_and_Implements.BCRect.#ctor(BOOSE.Canvas,System.Int32,System.Int32)
+  name.vb: New(Canvas, Integer, Integer)
+  fullName: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCRect.BCRect(BOOSE.Canvas, int, int)
+  fullName.vb: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCRect.New(BOOSE.Canvas, Integer, Integer)
+  nameWithType: BCRect.BCRect(Canvas, int, int)
+  nameWithType.vb: BCRect.New(Canvas, Integer, Integer)
+- uid: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCRect.#ctor*
+  name: BCRect
+  href: api/BOOSECabinet.BOOSE_Overwrites_and_Implements.BCRect.html#BOOSECabinet_BOOSE_Overwrites_and_Implements_BCRect__ctor_
+  commentId: Overload:BOOSECabinet.BOOSE_Overwrites_and_Implements.BCRect.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCRect.BCRect
+  fullName.vb: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCRect.New
+  nameWithType: BCRect.BCRect
+  nameWithType.vb: BCRect.New
+- uid: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCRect.Execute
+  name: Execute()
+  href: api/BOOSECabinet.BOOSE_Overwrites_and_Implements.BCRect.html#BOOSECabinet_BOOSE_Overwrites_and_Implements_BCRect_Execute
+  commentId: M:BOOSECabinet.BOOSE_Overwrites_and_Implements.BCRect.Execute
+  fullName: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCRect.Execute()
+  nameWithType: BCRect.Execute()
+- uid: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCRect.Execute*
+  name: Execute
+  href: api/BOOSECabinet.BOOSE_Overwrites_and_Implements.BCRect.html#BOOSECabinet_BOOSE_Overwrites_and_Implements_BCRect_Execute_
+  commentId: Overload:BOOSECabinet.BOOSE_Overwrites_and_Implements.BCRect.Execute
+  isSpec: "True"
+  fullName: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCRect.Execute
+  nameWithType: BCRect.Execute
+- uid: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCTriangle
+  name: BCTriangle
+  href: api/BOOSECabinet.BOOSE_Overwrites_and_Implements.BCTriangle.html
+  commentId: T:BOOSECabinet.BOOSE_Overwrites_and_Implements.BCTriangle
+  fullName: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCTriangle
+  nameWithType: BCTriangle
+- uid: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCTriangle.#ctor
+  name: BCTriangle()
+  href: api/BOOSECabinet.BOOSE_Overwrites_and_Implements.BCTriangle.html#BOOSECabinet_BOOSE_Overwrites_and_Implements_BCTriangle__ctor
+  commentId: M:BOOSECabinet.BOOSE_Overwrites_and_Implements.BCTriangle.#ctor
+  name.vb: New()
+  fullName: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCTriangle.BCTriangle()
+  fullName.vb: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCTriangle.New()
+  nameWithType: BCTriangle.BCTriangle()
+  nameWithType.vb: BCTriangle.New()
+- uid: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCTriangle.#ctor(BOOSE.Canvas,System.Int32,System.Int32)
+  name: BCTriangle(Canvas, int, int)
+  href: api/BOOSECabinet.BOOSE_Overwrites_and_Implements.BCTriangle.html#BOOSECabinet_BOOSE_Overwrites_and_Implements_BCTriangle__ctor_BOOSE_Canvas_System_Int32_System_Int32_
+  commentId: M:BOOSECabinet.BOOSE_Overwrites_and_Implements.BCTriangle.#ctor(BOOSE.Canvas,System.Int32,System.Int32)
+  name.vb: New(Canvas, Integer, Integer)
+  fullName: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCTriangle.BCTriangle(BOOSE.Canvas, int, int)
+  fullName.vb: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCTriangle.New(BOOSE.Canvas, Integer, Integer)
+  nameWithType: BCTriangle.BCTriangle(Canvas, int, int)
+  nameWithType.vb: BCTriangle.New(Canvas, Integer, Integer)
+- uid: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCTriangle.#ctor*
+  name: BCTriangle
+  href: api/BOOSECabinet.BOOSE_Overwrites_and_Implements.BCTriangle.html#BOOSECabinet_BOOSE_Overwrites_and_Implements_BCTriangle__ctor_
+  commentId: Overload:BOOSECabinet.BOOSE_Overwrites_and_Implements.BCTriangle.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCTriangle.BCTriangle
+  fullName.vb: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCTriangle.New
+  nameWithType: BCTriangle.BCTriangle
+  nameWithType.vb: BCTriangle.New
+- uid: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCTriangle.Execute
+  name: Execute()
+  href: api/BOOSECabinet.BOOSE_Overwrites_and_Implements.BCTriangle.html#BOOSECabinet_BOOSE_Overwrites_and_Implements_BCTriangle_Execute
+  commentId: M:BOOSECabinet.BOOSE_Overwrites_and_Implements.BCTriangle.Execute
+  fullName: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCTriangle.Execute()
+  nameWithType: BCTriangle.Execute()
+- uid: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCTriangle.Execute*
+  name: Execute
+  href: api/BOOSECabinet.BOOSE_Overwrites_and_Implements.BCTriangle.html#BOOSECabinet_BOOSE_Overwrites_and_Implements_BCTriangle_Execute_
+  commentId: Overload:BOOSECabinet.BOOSE_Overwrites_and_Implements.BCTriangle.Execute
+  isSpec: "True"
+  fullName: BOOSECabinet.BOOSE_Overwrites_and_Implements.BCTriangle.Execute
+  nameWithType: BCTriangle.Execute
+- uid: BOOSECabinet.Form1
+  name: Form1
+  href: api/BOOSECabinet.Form1.html
+  commentId: T:BOOSECabinet.Form1
+  fullName: BOOSECabinet.Form1
+  nameWithType: Form1
+- uid: BOOSECabinet.Form1.#ctor
+  name: Form1()
+  href: api/BOOSECabinet.Form1.html#BOOSECabinet_Form1__ctor
+  commentId: M:BOOSECabinet.Form1.#ctor
+  name.vb: New()
+  fullName: BOOSECabinet.Form1.Form1()
+  fullName.vb: BOOSECabinet.Form1.New()
+  nameWithType: Form1.Form1()
+  nameWithType.vb: Form1.New()
+- uid: BOOSECabinet.Form1.#ctor*
+  name: Form1
+  href: api/BOOSECabinet.Form1.html#BOOSECabinet_Form1__ctor_
+  commentId: Overload:BOOSECabinet.Form1.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: BOOSECabinet.Form1.Form1
+  fullName.vb: BOOSECabinet.Form1.New
+  nameWithType: Form1.Form1
+  nameWithType.vb: Form1.New
+- uid: BOOSECabinet.Form1.Dispose(System.Boolean)
+  name: Dispose(bool)
+  href: api/BOOSECabinet.Form1.html#BOOSECabinet_Form1_Dispose_System_Boolean_
+  commentId: M:BOOSECabinet.Form1.Dispose(System.Boolean)
+  name.vb: Dispose(Boolean)
+  fullName: BOOSECabinet.Form1.Dispose(bool)
+  fullName.vb: BOOSECabinet.Form1.Dispose(Boolean)
+  nameWithType: Form1.Dispose(bool)
+  nameWithType.vb: Form1.Dispose(Boolean)
+- uid: BOOSECabinet.Form1.Dispose*
+  name: Dispose
+  href: api/BOOSECabinet.Form1.html#BOOSECabinet_Form1_Dispose_
+  commentId: Overload:BOOSECabinet.Form1.Dispose
+  isSpec: "True"
+  fullName: BOOSECabinet.Form1.Dispose
+  nameWithType: Form1.Dispose

@@ -1,0 +1,214 @@
+{
+  "source_base_path": "C:/Users/willi/source/repos/ase-boose-assignment-wh2876/Documentation",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      }
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas",
+      "Summary": "<p sourcefile=\"api/BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCanvas.yml\" sourcestartlinenumber=\"1\">Acts as the drawing canvas used by the BOOSE draw commands.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCircle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCircle.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCircle",
+      "Summary": "<p sourcefile=\"api/BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCircle.yml\" sourcestartlinenumber=\"1\">The class used to act as the &quot;circ&quot; command in boose</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCommandFactory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCommandFactory.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCommandFactory",
+      "Summary": "<p sourcefile=\"api/BOOSECabinet.BOOSE_Overwrites_and_Implements.BCCommandFactory.yml\" sourcestartlinenumber=\"1\">The class used to read boose commands and convert them into command objects that can be used when running the boose code</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BOOSECabinet.BOOSE_Overwrites_and_Implements.BCMoveTo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BOOSECabinet.BOOSE_Overwrites_and_Implements.BCMoveTo.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "BOOSECabinet.BOOSE_Overwrites_and_Implements.BCMoveTo",
+      "Summary": "<p sourcefile=\"api/BOOSECabinet.BOOSE_Overwrites_and_Implements.BCMoveTo.yml\" sourcestartlinenumber=\"1\">The class used to act as the &quot;moveto&quot; command in boose</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BOOSECabinet.BOOSE_Overwrites_and_Implements.BCRect.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BOOSECabinet.BOOSE_Overwrites_and_Implements.BCRect.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "BOOSECabinet.BOOSE_Overwrites_and_Implements.BCRect",
+      "Summary": "<p sourcefile=\"api/BOOSECabinet.BOOSE_Overwrites_and_Implements.BCRect.yml\" sourcestartlinenumber=\"1\">The class used to act as the &quot;rect&quot; command in boose.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BOOSECabinet.BOOSE_Overwrites_and_Implements.BCTriangle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BOOSECabinet.BOOSE_Overwrites_and_Implements.BCTriangle.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "BOOSECabinet.BOOSE_Overwrites_and_Implements.BCTriangle",
+      "Summary": "<p sourcefile=\"api/BOOSECabinet.BOOSE_Overwrites_and_Implements.BCTriangle.yml\" sourcestartlinenumber=\"1\">The class used to act as the &quot;tri&quot; command in boose.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BOOSECabinet.BOOSE_Overwrites_and_Implements.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BOOSECabinet.BOOSE_Overwrites_and_Implements.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "BOOSECabinet.BOOSE_Overwrites_and_Implements",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BOOSECabinet.Form1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BOOSECabinet.Form1.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "BOOSECabinet.Form1",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BOOSECabinet.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BOOSECabinet.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "BOOSECabinet",
+      "Summary": null
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html"
+        },
+        ".json": {
+          "relative_path": "api/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "boosecabinetdocs/getting-started.md",
+      "output": {
+        ".html": {
+          "relative_path": "boosecabinetdocs/getting-started.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "boosecabinetdocs/introduction.md",
+      "output": {
+        ".html": {
+          "relative_path": "boosecabinetdocs/introduction.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "boosecabinetdocs/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "boosecabinetdocs/toc.html"
+        },
+        ".json": {
+          "relative_path": "boosecabinetdocs/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html"
+        },
+        ".json": {
+          "relative_path": "toc.json"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
